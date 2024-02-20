@@ -1,7 +1,7 @@
-# *  Author  : Akash Black Hat
-# *  GitHub  : https://github.com/akashblackhat
-# *  YouTub  : TECHNICAL AKASH SKILLS
-# *  FacebooK: https://shorturl.at/MO019
+# *  Author  : KrishnaGupta
+# *  GitHub  : https://github.com/GuptajiiHacker
+# *  YouTub  : HackerGuptaji
+# *  FacebooK: https://shorturl.at/KrishnaGupta
 # *  License : MIT
 
 import smtplib, sys, os, random
@@ -20,7 +20,7 @@ RAND = random.choice(colors)
 GMAIL_PORT = '587'
 
 
-# AKASH BANER
+# Krishna BANER
 def artwork():
     print("\n")
     print('''\033[32m
@@ -29,7 +29,7 @@ def artwork():
      ██║  ███╗ ██╔████╔██║ ███████║ ██║ ██║   
      ██║   ██║ ██║╚██╔╝██║ ██╔══██║ ██║ ██║            
      ╚██████╔╝ ██║ ╚═╝ ██║ ██║  ██║ ██║ ███████╗       
-      ╚═════╝  ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝ ╚══════╝  v2.1  
+      ╚═════╝  ╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═╝ ╚══════╝  v1.1 Vip  
  ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗███╗   ██╗ ██████╗ 
  ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██║████╗  ██║██╔════╝
  ███████║███████║██║     █████╔╝ ██║██╔██╗ ██║██║  ███╗
@@ -38,10 +38,10 @@ def artwork():
  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝        
 ⚠️WARNING:I AM NOT RESPONSIBLE FOR THE MISUSE OF THIS TOOL !
 *******************************************************
-* Author   : Akash Black Hat
-* GitHub   : https://github.com/akashblackhat
-* YouTub   : TECHNICAL AKASH SKILLS
-* Instagram: akashblackhat
+* Author   : KrishnaGupta 
+* GitHub   : https://github.com/GuptajiiHacker 
+* YouTub   : HackerGuptajii
+* Instagram: @its_vip_krishna_gupta
 * password : passworld.txt
 *************USE VPN OR TOR SERVICE********************
 ''')
@@ -81,5 +81,5 @@ for password in passswfile:
 
     except smtplib.SMTPAuthenticationError:
         print("[-] Pasword Is Wrong. %s " % password)
-        # Author  : Akash Black Hat
+        # Author  : KrishnaGupta 
         #thank you hackers
