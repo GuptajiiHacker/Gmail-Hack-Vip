@@ -5,11 +5,12 @@ Gmail id brut force attack
            apt update
            apt install python
            apt install python3
-           git clone 
-https://github.com/GuptajiiHacker/Gmail-Hack-Vip
+           git clone
+           https://github.com/GuptajiiHacker/Gmail-Hack-Vip
            ls
            cd Gmail-Hack-Vip
            python gmail-hack.py
+           
 # termux
 
          apt update
