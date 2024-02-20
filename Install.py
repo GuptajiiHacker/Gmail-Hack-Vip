@@ -1,7 +1,8 @@
-print("                                            ")
+print("   vip                                         ")
 choice = input("\033[93mDo You Want to Install All Packages [y/n] : ")
 if choice == 'n': sys.exit()
-if choice == 'y': os.system("apt upgrade -y > /dev/null 2>&1")
+if choice == 'y': os.system
+  ("apt upgrade -y > /dev/null 2>&1")
 os.system("apt update -y >/dev/null")
 os.system("apt install python -y > /dev/null 2>&1")
 os.system("apt install python2 -y > /dev/null 2>&1")
